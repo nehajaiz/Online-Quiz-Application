@@ -18,13 +18,19 @@ This project allows users to answer multiple-choice questions and view their sco
 ## 📸 Screenshots
 
 ### Quiz Home
-![Quiz Home](screenshots/quiz-home.png)
+![Quiz Home](screenshot1/quiz-home.png)
 
 ### Question Page
-![Question](screenshots/quiz-question.png)
+![Question](screenshot2/quiz-question.png)
+
+### Question Page
+![Question](screenshot3/quiz-question.png)
+
+### Question Page
+![Question](screenshot4/quiz-question.png)
 
 ### Result Page
-![Result](screenshots/quiz-result.png)
+![Result](screenshot5/quiz-result.png)
 
 ## 🌐 Live Demo
 (Add GitHub Pages link here)
