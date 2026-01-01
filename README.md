@@ -33,7 +33,7 @@ This project allows users to answer multiple-choice questions and view their sco
 ![Result](screenshot5/quiz-result.png)
 
 ## 🌐 Live Demo
-(Add GitHub Pages link here)
+([Add GitHub Pages link here](https://github.com/nehajaiz/Online-Quiz-Application/))
 
 ## 📚 What I Learned
 - JavaScript DOM manipulation
