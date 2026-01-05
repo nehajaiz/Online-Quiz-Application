@@ -15,6 +15,7 @@ This project allows users to answer multiple-choice questions and view their sco
 - CSS
 - JavaScript
 
+## Screenshots
 
 ## 🌐 Live Demo
 ([Add GitHub Pages link here](https://github.com/nehajaiz/Online-Quiz-Application/))
